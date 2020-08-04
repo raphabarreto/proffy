@@ -1,11 +1,9 @@
 <h1 align="center">
   <img alt="Proffy" title="#delicinha" src=".github/proffy.png" width="450px" />
-  <!-- <br/>
-  <img alt="Proffy" title="#delicinha" src=".github/logo.png" width="250px" /> -->
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raphabarreto/proffy">
+  <img alt="Author" src="https://img.shields.io/badge/author-Raphael%20Barreto-7159c1">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/raphabarreto/proffy">
   
@@ -35,6 +33,17 @@
 
 <br>
 
+---
+
+## 🤝 Olá pessoal!
+
+Para deixar esse projeto mais organizado, Eu movi as aplicações **(api rest, cliente web, cliente mobile)** para 3 repositórios diferentes.
+
+>Abaixo estão os links para acessá-los:
+
+- [API Rest](https://github.com/raphabarreto/proffy-server)
+- [Web](https://github.com/raphabarreto/proffy-web)
+- [Mobile](https://github.com/raphabarreto/proffy-mobile)
 
 ---
 
