@@ -77,13 +77,13 @@ O <strong>Proffy</strong> serve como uma plaforma de ensino, motivado devido ao 
 
 
 
-## 📱 Mobile - ainda em construção
-<!-- <h1 align="center">
-    <img alt="Proffy Mobile" title="#delicinha" src=".github/mobile.gif" />
-</h1> -->
+## 📱 Mobile 
+<h1 align="center">
+    <img alt="Proffy Mobile" title="#delicinha" src=".github/proffy-mobile.gif" />
+</h1>
 ---
 
-## 🔥 Instalação - ainda em construção
+## 🔥 Instalação
 
 ```bash
 # Navegue em cada pasta: server / web / mobile e instale as depedências:
