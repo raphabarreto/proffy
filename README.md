@@ -79,9 +79,9 @@ O <strong>Proffy</strong> serve como uma plaforma de ensino, motivado devido ao 
 
 ## 📱 Mobile 
 <h1 align="center">
-    <img alt="Proffy Mobile" title="#delicinha" src=".github/proffy-mobile.gif" />
+    <img alt="Proffy Mobile" title="#delicinha" src=".github/proffy-mobile.gif" width="250px" />
 </h1>
----
+
 
 ## 🔥 Instalação
 
